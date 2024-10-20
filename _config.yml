@@ -1,11 +1,11 @@
 # Site settings
-title: Land of the Lustrous
+title: Xu's SPACE
 SEOTitle: Land of the Lustrous
-header-img: ./img/Configurations/phos_yuki.jpg
-email: yubinliu925@gmail.com
-description: "这里是 @Yubin Liu 的个人博客，也是保存每一颗宝石的地方 | 独立之精神，自由之思想"
+header-img: ./img/Configurations/photos_xu.jpg
+email: evanescoxu@gmail.com
+description: "大家好 其实我是高坂丽奈"
 keyword: "Yubin Liu, Robotics, Anime, Japanese, Land of the Lustrous, Phosphophyllite"
-url: "https://nephritebin.github.io/" # your host, for absolute URL
+url: "https://EvanescoXu.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -86,8 +86,8 @@ ga_track_id: "G-LM0KVR8XBG" # Format: UA-xxxxxx-xx
 ga_domain: auto
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "独立之精神，自由之思想 <br> Phosphophyllite <br> yubinliu925@gmail.com"
-sidebar-avatar: /img/Configurations/phos.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "其实我是高坂丽奈 <br> EvanescoXU <br> evanescoxu@gmail.com"
+sidebar-avatar: /img/Configurations/photos_xu.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -103,11 +103,11 @@ page-mathjax: True
 # Friends
 friends:
   [
-    { title: "Mio Kagura", href: "https://kagurua.com/" },
-    { title: "Douge Fu", href: "https://dougefla.github.io/" },
-    { title: "Aiyo", href: "http://freevodka.space/"},
-    { title: "Terry", href: "https://terryliu18.github.io/"},
-    { title: "BlueCat", href: "https://bluecatli.github.io/"}
+    # { title: "Mio Kagura", href: "https://kagurua.com/" },
+    # { title: "Douge Fu", href: "https://dougefla.github.io/" },
+    # { title: "Aiyo", href: "http://freevodka.space/"},
+    # { title: "Terry", href: "https://terryliu18.github.io/"},
+    # { title: "BlueCat", href: "https://bluecatli.github.io/"}
     # { title: "Kun Qian", href: "http://kunq.me" },
     # { title: "Sherry Woo", href: "https://sherrywoo.me/" },
     # { title: "SmdCn", href: "http://blog.smdcn.net" },
