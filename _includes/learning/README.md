@@ -4,4 +4,3 @@ I'm interested to expanding my knowledge and exploring a wide array of subjects 
 
 Although my blog's `archive` page categorizes each post, I prefer to selectively share content that I find truly fascinating or about which I am deeply passionate at here. Some items are as follows:
 
-1. [Genshin and Japanese poems](https://nephritebin.github.io/2024/02/25/%E5%8E%9F%E7%A5%9E%E4%B8%8E%E6%97%A5%E6%9C%AC%E5%92%8C%E6%AD%8C/)

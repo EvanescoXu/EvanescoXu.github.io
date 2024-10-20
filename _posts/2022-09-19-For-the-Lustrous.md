@@ -12,13 +12,13 @@ tags:
     - Front end
 ---
 
-# For the land of the lustrous
+# 存档自用教程（不用点开看）
 
 > “Yeah It's on. ”
 
-Yubin 的 Blog 就这么开通了。
+感谢Yubin大神
 
-感谢 Hux 大神提供的 Jekyll 模板，让我自己没事随便写点又不知道放哪的东西终于有了一个呆着的地方。这篇文章记录一下自己的博客开通的过程，也作为对自己首次用 Jekyll 写博客的测试。从 Hexo 折腾到 Jekyll，终于找到了一个大部分功能都支持，自己也用着顺手的东西，希望这能激励自己以后好好输出吧（笑）。
+Yubin大神感谢 Hux 大神提供的 Jekyll 模板
 
 ## 安装与下载
 
@@ -114,18 +114,18 @@ $$
 
 ```html
 <figure>
-    <img width="80%" align="middle" src="https://onedrive.live.com/embed?resid=F7F75CDEDD2EF73D%21239893&authkey=%21AJgtWBcDPqmJzeU&width=2560&height=1440" style="margin-top: 0px; margin-bottom: 5px"/>
+    <img width="80%" align="middle" src="https://weibo.com/u/6204732727#&viewer" style="margin-top: 0px; margin-bottom: 5px"/>
     <div style="font-family: STXingkai, sans-serif; font-size: 12px; text-align: center; margin-top: 0px;">
-    甘雨可爱，贴贴 </div>
+     </div>
 </figure>
 ```
 
 效果如下所示
 
 <figure>
-    <img width="80%" align="middle" src="https://onedrive.live.com/embed?resid=F7F75CDEDD2EF73D%21239893&authkey=%21AJgtWBcDPqmJzeU&width=2560&height=1440" style="margin-top: 0px; margin-bottom: 5px"/>
+    <img width="80%" align="middle" src="https://weibo.com/u/6204732727#&viewer" style="margin-top: 0px; margin-bottom: 5px"/>
     <div style="font-family: STXingkai, sans-serif; font-size: 12px; text-align: center; margin-top: 0px;">
-    甘雨可爱，贴贴 </div>
+     </div>
 </figure>
 
 当然，如果更喜欢折腾的话，可以更改网站的`css`模版，之后实现各种自定义样式，比如我想实现上面写的那种样式，我们可以在`css`文件夹下自己定义一个模版`personal.css`：
@@ -171,12 +171,12 @@ $$
 
 我们就可以在 Markdown 文件中使用简化的方式插入图片了，甚至还可以指定需要的参数与输入标识。效果如下所示，和上面插入的图片效果是相同的。在此基础上，你可以用`css`指定更多格式的效果，具体可以询问 ChatGPT 。事实上，这些代码都是 ChatGPT 告诉我的。
 
-{% 
+<!-- {% 
     include responsive_image.html 
     src="https://onedrive.live.com/embed?resid=F7F75CDEDD2EF73D%21239893&authkey=%21AJgtWBcDPqmJzeU&width=2560&height=1440" 
     caption="甘雨可爱，贴贴" 
     width="80%" 
-%}
+%} -->
 
 美中不足的是，这样快速插入的办法不能实现 `vscode` 的预览，因此我们只能使用 `jekyll` 的预览进行测试了。
 
@@ -194,15 +194,15 @@ $$
 </iframe>
 ```
 
-可以插入 Youtube 的视频， 效果如下所示，快来和我一起看胡桃 (˵¯͒ བ¯͒˵)：
+<!-- 可以插入 Youtube 的视频， 效果如下所示，快来和我一起看 -->
 
-<iframe 
+<!-- <iframe 
     width="640" height="360" 
     src="https://www.youtube.com/embed/M41ID8tLAWU" 
     frameborder="0" 
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
-</iframe>
+</iframe> -->
 
 为了使 `iframe` 响应式，我们可以使用一种常见的技巧，即使用固定的宽高比的容器。以下是一个例子，设置 `iframe` 的宽高比为 16:9。和上面一样，我们只需要在`css`文件夹中新建或者修改我们自己定义的样式文件就好：
 
@@ -253,4 +253,4 @@ scholar:
   bibliography: rinko.bib
 ```
 
-让我们一起愉快地玩耍吧~
+

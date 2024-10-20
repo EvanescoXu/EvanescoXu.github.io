@@ -1,10 +1,10 @@
 # Site settings
 title: Xu's SPACE
 SEOTitle: Land of the Lustrous
-header-img: ./img/Configurations/photos_xu.jpg
+header-img: ./img/Configurations/background1.jpg
 email: evanescoxu@gmail.com
 description: "大家好 其实我是高坂丽奈"
-keyword: "Yubin Liu, Robotics, Anime, Japanese, Land of the Lustrous, Phosphophyllite"
+keyword: "Robotics, Anime, Japanese, Land of the Lustrous, Phosphophyllite"
 url: "https://EvanescoXu.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,9 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: u/6367716963
-zhihu_username: wen-run-ru-yu-89-86
-github_username: Nephritebin
+weibo_username: u/6204732727
+zhihu_username: jerryxu-31-60
+github_username: EvanescoXu
 twitter_username: Evanesco_xu
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
